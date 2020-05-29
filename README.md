@@ -9,6 +9,6 @@ Authentication full process
 - Nodemailer
 - Json web token
 
-## Illustration
+## About
 - This application provides full authentication,
 - includes: verify account, guards, and forgot passwords.
